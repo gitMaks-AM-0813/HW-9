@@ -1,0 +1,25 @@
+.link{
+    box-shadow: 2px 3px 4px 3px red;
+}
+.text{
+    margin-top: 100px;
+    line-height: 1.7;
+}
+.post-title{
+    text-align: center;
+}
+.post-text:nth-of-type(1){
+    text-align: right;
+    white-space: pre-wrap;
+}
+.post-text{
+    text-align: justify;
+    font-family: var(--font-family);
+    word-break: keep-all;
+}
+span{
+    font-style: italic;
+}
+:root{
+    --font-family: "MonteCarlo" ,sans-serif;
+}
