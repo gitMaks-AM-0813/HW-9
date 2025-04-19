@@ -16,10 +16,12 @@
     text-align: justify;
     font-family: var(--font-family);
     word-break: keep-all;
+    color: green;
+    font-size: larger;
 }
 span{
-    font-style: italic;
+   text-decoration: line-through;
 }
 :root{
-    --font-family: "MonteCarlo" ,sans-serif;
+   --font-family: "Antic" ,sans-serif;
 }
