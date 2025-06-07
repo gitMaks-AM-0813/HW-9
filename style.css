@@ -2,7 +2,7 @@
     box-shadow: 2px 3px 4px 3px red;
 }
 .text{
-    margin-top: 100px;
+    text-indent: 100px;
     line-height: 1.7;
 }
 .post-title{
@@ -23,5 +23,5 @@ span{
    text-decoration: line-through;
 }
 :root{
-   --font-family: "Antic" ,sans-serif;
+   --font-family: "Arvo" ,serif;
 }
